@@ -12,7 +12,7 @@ TaskMaster Pro is a task management application that helps you keep track of you
 - Confetti animation for task completion celebration
 
 ## Screenshot
-![TaskMaster Pro](screenshot.png)
+![TaskMaster Pro](IMG_20240706_134018.jpg)
 
 ## Installation
 1. Clone the repository:
