@@ -13,6 +13,7 @@ TaskMaster Pro is a task management application that helps you keep track of you
 
 ## Screenshot
 ![TaskMaster Pro](IMG_20240706_134018.jpg)
+![TaskMaster Pro](IMG_20240706_134339.jpg)
 
 ## Installation
 1. Clone the repository:
